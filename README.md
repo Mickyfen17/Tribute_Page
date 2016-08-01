@@ -1,1 +1,1 @@
-First website attempt. FCC trubute page on Alan Shearer.
+First website attempt. FCC tribute page on Alan Shearer.
