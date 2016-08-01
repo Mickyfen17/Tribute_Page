@@ -1,0 +1,142 @@
+/*div {
+  border: 1px solid red;
+}*/
+
+p {
+  font-size: 0.9em !important;
+}
+
+/*Navbar Menu Glyphicon color*/
+#glyph {
+  color: white;
+}
+
+/*Navbar Menu down background & border color*/
+.navbar-toggle {
+  background-color: black !important;
+  border-color: white !important;
+}
+
+/*Removal of carousel background*/
+.carousel-control {
+  background-image: none !important;
+}
+
+/*Carousel text size and shadow*/
+.carousel-caption {
+  text-shadow:1px 1px black;
+  font-size:14px;
+}
+
+/*Carousel left arrow margin adjust*/
+.glyphicon-chevron-left {
+  margin-left: 10px !important;
+}
+
+/*Carousel right arrow margin adjust*/
+.glyphicon-chevron-right {
+  margin-right: 10px !important;
+}
+
+/*Navbar Brand color and top margin*/
+.navbar-brand {
+  color: white !important;
+  margin-top: 2px;
+}
+
+/*Navbar color & removal of border, border radius and margin */
+.navbar {
+  background-color: black !important;
+  margin-bottom: 0px !important;
+  border-radius: 0px !important;
+  border: none !important;
+}
+
+/*Footer padding and responsive font size*/
+.navbar-footer {
+  padding-top: 15px;
+  font-size: 1.0em;
+}
+
+/*Navbar nav list and a links (logo's)  positions*/
+.navbar-nav > li > a {
+  padding-top: 0px !important;
+  padding-bottom: 7px !important;
+}
+
+/*Football logo size, line heigt and position*/
+.logo1 {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+
+/*Padding and style for Social Media Icons Positions*/
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+/*Padding, margin and style for Social Media Icon Positions*/
+.list-inline li {
+  display: inline-block;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 7px;
+}
+
+/*Change Social Media (font awesome) icons size*/
+.social-icons .fa {
+  font-size: 1.6em;
+}
+
+/*Change Social Media (font awesome) icons circle size and color*/
+.social-icons .fa {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: #FFF;
+  color: rgba(255, 255, 255, 0.8);
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+/*Rounding border for Social Media Icons*/
+.social-icons.icon-circle .fa {
+  border-radius: 50%;
+}
+
+/*Hover affect for Social Media Icons*/
+.social-icons .fa:hover,
+.social-icons .fa:active {
+  color: #FFF;
+  -webkit-box-shadow: 1px 1px 3px #333;
+  -moz-box-shadow: 1px 1px 3px #333;
+  box-shadow: 1px 1px 3px #333;
+}
+
+/*Facebook icon color*/
+.social-icons .fa-facebook {
+  background-color: #3C599F;
+}
+
+/*Google+ icon color*/
+.social-icons .fa-google-plus {
+  background-color: #CF3D2E;
+}
+
+/*Instagram icon color*/
+.social-icons .fa-instagram {
+  background-color: #AEB5C5;
+}
+
+/*Twitter icon color*/
+.social-icons .fa-twitter {
+  background-color: #32CCFE;
+}
