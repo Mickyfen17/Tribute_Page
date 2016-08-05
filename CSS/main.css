@@ -46,10 +46,10 @@ p {
 
 /*Navbar color & removal of border, border radius and margin */
 .navbar {
-  background-color: black !important;
-  margin-bottom: 0px !important;
-  border-radius: 0px !important;
-  border: none !important;
+  background-color: black;
+  margin-bottom: 0px;
+  border-radius: 0px;
+  border: none;
 }
 
 /*Footer padding and responsive font size*/
@@ -60,8 +60,8 @@ p {
 
 /*Navbar nav list and a links (logo's)  positions*/
 .navbar-nav > li > a {
-  padding-top: 0px !important;
-  padding-bottom: 7px !important;
+  padding-top: 0px;
+  padding-bottom: 7px;
 }
 
 /*Football logo size, line heigt and position*/
